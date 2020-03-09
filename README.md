@@ -32,4 +32,4 @@ Entrer dans le dossier partition-list et exécuter ses commandes
 mvn clean
 mvn install
 ```
-Copier le .jar générer dans le dossier target dans le class Path de votre projet pour utiliser La function partitione.
+Copier le .jar générer dans le dossier target dans la class Path de votre projet pour utiliser la function partitione.
